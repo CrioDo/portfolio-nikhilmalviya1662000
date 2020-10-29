@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-nikhilmalviya1662000/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-nikhilmalviya1662000/static/js/main.6f6f02ff.chunk.js",
+    "main.js.map": "/portfolio-nikhilmalviya1662000/static/js/main.6f6f02ff.chunk.js.map",
+    "runtime-main.js": "/portfolio-nikhilmalviya1662000/static/js/runtime-main.dac6a6ab.js",
+    "runtime-main.js.map": "/portfolio-nikhilmalviya1662000/static/js/runtime-main.dac6a6ab.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-nikhilmalviya1662000/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.7141a25e.chunk.js": "/portfolio-nikhilmalviya1662000/static/js/2.7141a25e.chunk.js",
+    "static/js/2.7141a25e.chunk.js.map": "/portfolio-nikhilmalviya1662000/static/js/2.7141a25e.chunk.js.map",
+    "index.html": "/portfolio-nikhilmalviya1662000/index.html",
+    "precache-manifest.b3bf6d71b6d2fd0ecec9ec3e95fb55cb.js": "/portfolio-nikhilmalviya1662000/precache-manifest.b3bf6d71b6d2fd0ecec9ec3e95fb55cb.js",
+    "service-worker.js": "/portfolio-nikhilmalviya1662000/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-nikhilmalviya1662000/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-nikhilmalviya1662000/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.7141a25e.chunk.js.LICENSE.txt": "/portfolio-nikhilmalviya1662000/static/js/2.7141a25e.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-nikhilmalviya1662000/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-nikhilmalviya1662000/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac6a6ab.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.7141a25e.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.6f6f02ff.chunk.js"
+  ]
+}
